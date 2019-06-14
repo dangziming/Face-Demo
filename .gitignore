@@ -1,0 +1,13 @@
+*.iml
+.gradle/
+gradle/
+local.properties
+.idea/
+*.DS_Store
+build/
+*.so
+captures
+
+face/src/main/jniLibs/
+face/release/
+publish.py
